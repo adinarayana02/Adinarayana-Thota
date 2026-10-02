@@ -76,7 +76,7 @@ async function seed() {
       githubUsername: "adinarayana02",
       leetcodeUrl: "https://leetcode.com",
       leetcodeUsername: "adinarayana02",
-      resumeUrl: newUrl,
+      resumeUrl: "https://drive.google.com/file/d/1FTtZLLZYsGK8boAFuCLHdMmciIIOjFLz/view?usp=sharing",
     });
     console.log("✅ Profile seeded");
 

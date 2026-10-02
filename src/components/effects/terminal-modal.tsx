@@ -193,12 +193,12 @@ export function TerminalModal() {
           <div className="text-xs space-y-1">
             <p className="text-foreground font-semibold">Portfolio & Resume Link:</p>
             <a
-              href="https://drive.google.com/file/d/1AYY0kQj35_CZtZc0gpwWbWnrzkSXWRxw/view?usp=sharing"
+              href="https://drive.google.com/file/d/1FTtZLLZYsGK8boAFuCLHdMmciIIOjFLz/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary underline hover:text-primary/80"
             >
-              https://drive.google.com/file/d/1AYY0kQj35_CZtZc0gpwWbWnrzkSXWRxw/view?usp=sharing
+              https://drive.google.com/file/d/1FTtZLLZYsGK8boAFuCLHdMmciIIOjFLz/view?usp=sharing
             </a>
           </div>
         ),

@@ -11,7 +11,7 @@ export async function GET() {
       // Return default if not found
       return NextResponse.json({
         summary: '',
-        pdfUrl: 'https://drive.google.com/file/d/1t7Ws-Be5RBMl-QMIKngor6LCMr2gpBQ-/view?usp=sharing',
+        pdfUrl: 'https://drive.google.com/file/d/1FTtZLLZYsGK8boAFuCLHdMmciIIOjFLz/view?usp=sharing',
         highlights: {
           experience: '',
           skills: '',

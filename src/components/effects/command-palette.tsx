@@ -201,7 +201,7 @@ export function CommandPalette() {
       icon: Download,
       action: () => {
         soundManager.playSuccess();
-        window.open("https://drive.google.com/file/d/1AYY0kQj35_CZtZc0gpwWbWnrzkSXWRxw/view?usp=sharing", "_blank");
+        window.open("https://drive.google.com/file/d/1FTtZLLZYsGK8boAFuCLHdMmciIIOjFLz/view?usp=sharing", "_blank");
         setIsOpen(false);
       }
     },
