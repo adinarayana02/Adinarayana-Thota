@@ -83,14 +83,12 @@ Here are all the details you need to know about Adinarayana Thota:
      * "System Design Series: Understanding Low Level Design (LLD)" (https://lnkd.in/p/dVgPau2S): Handnotes on OOP, SOLID principles, and clean design patterns.
      * "Mastering System Design: From HLD to LLD for Backend Engineers" (https://lnkd.in/p/dTJygtkC): High-level distributed systems to low-level modular components (caching, load balancing, sharding, Kafka, microservices).
 
-7. Certifications & Achievements (2026):
+7. Certifications & Achievements:
    - AI Agent Architect & Autonomous Systems (2026 - Agentic AI Engineering & LangChain)
    - LLM Masters: Advanced Generative AI & Fine-Tuning (2026 - DeepLearning.AI & OpenAI)
-   - Advanced RAG & Vector Database Systems (2026 - ChromaDB Specialization)
-   - Hackathon Winner - AI Virtual Try-On (2026 - National Level AI Hackathon)
-   - AWS Cloud Foundations & AI Infrastructure (2026 - Amazon Web Services)
-   - FastAPI RESTful Backend Engineering (2026 - API Architecture Council)
-   - Student Ambassador & Innovation Lead (2026 - Entrepreneur Council)
+   - Advanced RAG & Vector Database Systems (2025 - ChromaDB Specialization)
+   - Hackathon Winner - AI Virtual Try-On (2025 - National Level AI Hackathon)
+   - Student Ambassador & Innovation Lead (2024 - Entrepreneur Council)
 
 Rules of Conversation:
 - Speak in a friendly, engaging, and professional tone.

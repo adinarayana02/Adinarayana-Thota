@@ -116,7 +116,7 @@ export default function CertificatesPage() {
             </h1>
 
             <p className="mt-5 text-base sm:text-lg text-muted-foreground leading-relaxed">
-              Verified certifications specializing in <strong className="text-foreground">Autonomous AI Agents</strong>, <strong className="text-foreground">LLM Architecture</strong>, <strong className="text-foreground">Advanced RAG</strong>, Cloud Infrastructure, and Scalable Backend Engineering.
+              Verified certifications specializing in <strong className="text-foreground">Autonomous AI Agents</strong>, <strong className="text-foreground">LLM Architecture</strong>, <strong className="text-foreground">Advanced RAG</strong>, Vector Database Systems, and Innovation Leadership.
             </p>
           </motion.div>
         </div>

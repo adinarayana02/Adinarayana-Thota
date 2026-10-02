@@ -447,44 +447,23 @@ export const certificates: ICertificate[] = [
   {
     title: "Advanced RAG & Vector Database Systems",
     organization: "ChromaDB & Vector AI Specialization",
-    issueDate: "2026",
+    issueDate: "2025",
     description: "Production-grade hybrid retrieval (dense vectors + sparse BM25), cross-encoder reranking, and self-correcting retrieval pipelines.",
     order: 3,
   },
   {
     title: "Hackathon Winner - AI Virtual Try-On",
     organization: "National Level AI Hackathon",
-    issueDate: "2026",
+    issueDate: "2025",
     description: "1st Place Champion for developing an AI-driven computer vision and deep learning apparel fitting system with pose estimation and texture warping.",
     order: 4,
   },
   {
-    title: "AWS Cloud Foundations & AI Infrastructure",
-    organization: "Amazon Web Services (AWS)",
-    issueDate: "2026",
-    description: "Cloud architecture, distributed model serving pipelines, asynchronous microservices, Docker containerization, and AWS deployment.",
-    order: 5,
-  },
-  {
-    title: "FastAPI RESTful Backend Engineering",
-    organization: "API Architecture & Systems Design Council",
-    issueDate: "2026",
-    description: "High-concurrency async APIs, batch inference optimization, WebSocket streaming, and distributed microservices architecture.",
-    order: 6,
-  },
-  {
-    title: "Deep Learning & Computer Vision",
-    organization: "TensorFlow & AI Specialization",
-    issueDate: "2026",
-    description: "Convolutional neural networks, DenseNet121 feature extractors, object detection, and multimodal computer vision pipelines.",
-    order: 7,
-  },
-  {
     title: "Student Ambassador & Innovation Lead",
     organization: "Entrepreneur Council",
-    issueDate: "2026",
+    issueDate: "2024",
     description: "Leading innovation workshops, mentoring student developers in AI agent architectures, and organizing campus hackathons.",
-    order: 8,
+    order: 5,
   },
 ];
 

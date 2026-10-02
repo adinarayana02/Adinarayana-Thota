@@ -39,7 +39,7 @@ const stats = [
   { icon: Briefcase, label: "Work roles", value: 4, suffix: "", note: "AI + full-stack delivery" },
   { icon: Rocket, label: "Projects shipped", value: 6, suffix: "+", note: "case-study ready builds" },
   { icon: Code2, label: "DSA problems", value: 200, suffix: "+", note: "algorithmic fundamentals" },
-  { icon: Award, label: "Certificates", value: 6, suffix: "+", note: "cloud, GenAI, APIs" },
+  { icon: Award, label: "Certificates", value: 5, suffix: "+", note: "GenAI, RAG, Agents" },
 ];
 
 const hiringTickerItems = [
