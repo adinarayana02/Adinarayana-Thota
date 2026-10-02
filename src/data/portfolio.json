@@ -1,0 +1,439 @@
+{
+  "profile": {
+    "name": "Adinarayana Thota",
+    "shortName": "Adinarayana",
+    "tagline": "AI / ML Developer & Generative AI Specialist",
+    "role": "Developer (AI / ML, Generative AI & Agentic Systems)",
+    "specialization": "Generative AI - Multi-Agent Systems - RAG - AI Agents",
+    "location": "Andhra Pradesh, India",
+    "yearsOfExperience": "1+",
+    "bio": "AI/ML Developer specializing in Generative AI, Multi-Agent Systems, RAG pipelines, and scalable APIs. Pursuing M.Tech in Information Technology at Andhra University with a proven track record in end-to-end AI recruitment tools, fraud detection, and multi-agent platforms.",
+    "avatarSvg": "",
+    "social": {
+      "github": "https://github.com/adinarayana02",
+      "linkedin": "https://www.linkedin.com/in/thota-adinarayana/",
+      "substack": "https://thotaadinarayana.substack.com",
+      "substackProfile": "https://substack.com/@techtalks02",
+      "instagram": "https://www.instagram.com/techtalks02/",
+      "youtube": "https://www.youtube.com/@Techtalks02-ai",
+      "email": "thotaadinarayana02@gmail.com",
+      "phone": "+91 8309871401",
+      "website": "https://adinarayanathota.vercel.app/",
+      "resume": "https://drive.google.com/file/d/1AYY0kQj35_CZtZc0gpwWbWnrzkSXWRxw/view?usp=sharing"
+    }
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Programming Languages",
+        "items": ["Python", "JavaScript", "HTML", "CSS"]
+      },
+      {
+        "name": "Frameworks & Web",
+        "items": ["React.js", "FastAPI", "Django", "REST APIs", "HTML5", "CSS3"]
+      },
+      {
+        "name": "AI/ML & Deep Learning",
+        "items": ["TensorFlow", "DenseNet121", "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "OpenAI Whisper", "Llama", "AutoGPT"]
+      },
+      {
+        "name": "Generative AI & Agentic Systems",
+        "items": ["Large Language Models (LLMs)", "Retrieval-Augmented Generation (RAG)", "LangChain", "Vector DBs (ChromaDB)", "n8n", "Prompt Engineering", "Multi-Agent Systems"]
+      },
+      {
+        "name": "Database & Cloud",
+        "items": ["MySQL", "PostgreSQL", "ChromaDB", "AWS", "Docker", "Data Pipelines"]
+      },
+      {
+        "name": "Engineering Principles & Tools",
+        "items": ["SDLC", "DBMS", "Operating Systems", "Data Pipelines", "OOPS", "Design Patterns", "Git", "Model Safety & Evaluation", "NLP Explainability"]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "TELIC INFO SERVICES PRIVATE LIMITED",
+      "role": "Developer (AI / ML, Generative AI)",
+      "type": "Internship",
+      "period": "Jan 2026 – May 2026",
+      "location": "India",
+      "summary": "Engineered a B2B AI-powered business automation platform orchestrating multiple specialized AI workflows across sales, lead management, marketing, and SEO.",
+      "highlights": [
+        "Engineered a B2B AI-powered business automation platform orchestrating multiple specialized AI workflows across sales, lead management, marketing, and SEO.",
+        "Developed an AI Voice Calling Agent that interacts with customers over calls, handles real-time queries, extracts key info, and generates structured conversation summaries for sales team follow-ups.",
+        "Built a Social Media Automation Agent to generate localized promotional posts and short-form video content targeting region-specific customer segments.",
+        "Designed an automated Lead Management pipeline that leverages customer interaction data to identify, qualify, and manage high-intent sales leads.",
+        "Created an SEO Automation workflow for business websites and built end-to-end AI pipelines using Python, FastAPI, LLM APIs, RAG, ChromaDB vector search, and prompt orchestration while optimizing inference and tracking experiments via MLflow."
+      ]
+    },
+    {
+      "company": "Afrov Pvt Limited",
+      "role": "Data Science Intern",
+      "type": "Internship",
+      "period": "July 2025 – Nov 2025",
+      "location": "India",
+      "summary": "Engineered NeoDetect, an end-to-end document and image fraud detection system combining DenseNet121 computer vision, Llama LLMs, RAG, and high-throughput FastAPI REST APIs.",
+      "highlights": [
+        "Architected NeoDetect, a document and image fraud detection system to identify potentially fraudulent or manipulated documents.",
+        "Built visual analysis pipeline using DenseNet121 with TensorFlow to extract image features and identify forgery patterns in document images.",
+        "Integrated Llama with a Retrieval-Augmented Generation (RAG) pipeline to retrieve knowledge context and perform deep semantic document comprehension.",
+        "Exposed core AI capabilities via high-performance FastAPI REST APIs for seamless document ingestion and real-time fraud scoring.",
+        "Optimized inference workflows using batch inference and asynchronous I/O, substantially reducing overall API response times."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "hybrid-ai-recruitment-platform",
+      "title": "Hybrid AI Recruitment Platform",
+      "subtitle": "Agentic AI Platform with LangGraph, Hybrid RAG & MLflow",
+      "description": "Built an agentic AI recruitment platform that automates job analysis, candidate search, ranking, evaluation, and recruiter assistance across large candidate datasets. Developed a hybrid RAG retrieval pipeline using dense BGE embeddings, keyword search, Qdrant, and reranking to identify candidates based on skills, experience, projects, and job requirements. Implemented LangGraph-based recruitment agents for job requirement extraction, candidate evaluation, ranking, comparison, and explainable recommendations with evidence-backed results. Added a Recruiter AI Copilot with conversational search, candidate comparison, tool calling, and recruitment workflow automation using structured outputs and MCP integrations. Implemented MLflow-based tracing and evaluation for retrieval quality, ranking performance, agent execution, latency, token usage, and production monitoring.",
+      "stack": ["Python", "FastAPI", "LangGraph", "Google Gemini", "Qdrant", "BGE Embeddings", "PostgreSQL", "SQLAlchemy", "MLflow"],
+      "role": "Lead AI / Agentic Engineer",
+      "year": "2026",
+      "githubUrl": "https://github.com/adinarayana02",
+      "liveUrl": "https://adinarayanathota.vercel.app/",
+      "link": "https://adinarayanathota.vercel.app/",
+      "image": "/projects/hybrid-ai-recruitment-platform.jpg",
+      "highlight": true,
+      "metrics": {
+        "latency": "110ms (Hybrid Retrieval)",
+        "costReduction": "75% Screening Time Saved",
+        "accuracy": "96.4% Ranking Precision",
+        "throughput": "1,200 candidates/min",
+        "guardrails": "Evidence-Backed Evaluation & MCP Validation",
+        "tokensProcessed": "12M/mo"
+      },
+      "challenges": "Achieving high retrieval precision across non-standard resumes and job descriptions without relying exclusively on keyword matching or dense vectors alone.",
+      "solutions": "Engineered a hybrid RAG pipeline coupling dense BGE embeddings with sparse keyword search in Qdrant and cross-encoder reranking, orchestrated by LangGraph multi-agent state machines.",
+      "architectureSteps": [
+        { "title": "Resume & Job Ingestion", "description": "Parses multi-format resumes and job specifications into structured PostgreSQL/SQLAlchemy schemas." },
+        { "title": "Hybrid BGE Vector Indexing", "description": "Generates dense BGE embeddings and sparse keyword indices in Qdrant with reciprocal rank fusion (RRF)." },
+        { "title": "LangGraph Agentic Evaluation", "description": "Autonomous agents extract requirements, score candidate competencies, and produce evidence-backed comparative rankings." },
+        { "title": "Recruiter Copilot & MLflow Tracing", "description": "Interactive conversational copilot with MCP tool calling, live evaluation, and MLflow latency/token tracing." }
+      ]
+    },
+    {
+      "id": "autonomous-enterprise-manager",
+      "title": "Autonomous Enterprise Manager",
+      "subtitle": "Enterprise-Grade Multi-Agent AI Platform & Knowledge System",
+      "description": "Architected and deployed a production-ready enterprise AI platform featuring multi-agent orchestration, Retrieval-Augmented Generation (RAG), cognitive memory, workflow automation, governance, enterprise integrations, and cloud-native deployment using a modular layered architecture. Developed a RAG-based enterprise knowledge system for document ingestion and GitHub repository indexing, using embeddings, Qdrant vector search, semantic retrieval, and grounded question answering. Implemented entity extraction, entity linking, importance scoring, and memory deduplication to improve the quality and efficiency of agent context.",
+      "stack": ["Python", "FastAPI", "LangGraph", "Google Gemini", "PostgreSQL", "Qdrant", "SQLAlchemy", "GitHub Actions"],
+      "role": "AI Architect & Backend Engineer",
+      "year": "2026",
+      "githubUrl": "https://github.com/adinarayana02",
+      "liveUrl": "https://adinarayanathota.vercel.app/",
+      "link": "https://adinarayanathota.vercel.app/",
+      "image": "/projects/autonomous-enterprise-manager.jpg",
+      "highlight": true,
+      "metrics": {
+        "latency": "140ms / Agent Step",
+        "costReduction": "70% Enterprise Workflow Overhead",
+        "accuracy": "97.5% Grounded Q&A Precision",
+        "throughput": "2,500 operations/hr",
+        "guardrails": "Cognitive Memory Deduplication & Governance Guardrails",
+        "tokensProcessed": "18M/mo"
+      },
+      "challenges": "Handling massive document repositories and complex GitHub codebases while maintaining low context redundancy and high grounding accuracy across autonomous agents.",
+      "solutions": "Implemented a layered architecture with Qdrant vector storage, entity linking, memory deduplication, and LangGraph-managed state machines with granular governance policies.",
+      "architectureSteps": [
+        { "title": "Enterprise Knowledge Ingestion", "description": "Ingests documentation and indexes entire GitHub repositories with semantic chunking." },
+        { "title": "Cognitive Memory & Entity Linking", "description": "Performs entity extraction, importance scoring, and memory deduplication for concise agent context." },
+        { "title": "LangGraph Multi-Agent Orchestration", "description": "Dispatches tasks across specialized agents powered by Google Gemini for grounded reasoning and execution." },
+        { "title": "Governance & Cloud Deployment", "description": "Enforces enterprise policies, auditing, and continuous deployment through Docker and GitHub Actions." }
+      ]
+    },
+    {
+      "id": "voice-activity-detection-framework",
+      "title": "Voice Activity Detection Framework",
+      "subtitle": "Production Speech ML Pipeline & Voice-Enabled AI Resort Assistant",
+      "description": "Developed a voice-enabled AI resort assistant that automates customer support for room information, facilities, bookings, policies, pricing, and frequently asked questions. Built a RAG pipeline using ChromaDB to retrieve relevant resort information and generate context-aware responses, reducing reliance on the LLM's general knowledge. Integrated OpenAI Whisper for speech-to-text and designed a voice interaction pipeline for real-time customer conversations.",
+      "stack": ["Python", "FastAPI", "React.js", "LangGraph", "LLM APIs", "Whisper", "ChromaDB", "MongoDB"],
+      "role": "Speech ML & AI Developer",
+      "year": "2026",
+      "githubUrl": "https://github.com/adinarayana02",
+      "liveUrl": "https://adinarayanathota.vercel.app/",
+      "link": "https://adinarayanathota.vercel.app/",
+      "image": "/projects/voice-activity-detection-framework.jpg",
+      "highlight": true,
+      "metrics": {
+        "latency": "90ms (VAD + Ingestion)",
+        "costReduction": "50% Front-Desk Support Load Cut",
+        "accuracy": "95.4% Transcription & Intent Precision",
+        "throughput": "400 voice interactions/hr",
+        "guardrails": "Strict Resort Policy Grounding & Noise Suppression",
+        "tokensProcessed": "3.8M/mo"
+      },
+      "challenges": "Achieving low-latency voice activity detection and accurate multilingual speech-to-text over noisy client audio streams.",
+      "solutions": "Combined client-side audio frame capture with server-side OpenAI Whisper streaming, indexed domain knowledge into ChromaDB for instant RAG lookup, and orchestrated state with LangGraph.",
+      "architectureSteps": [
+        { "title": "Audio Ingestion & VAD", "description": "Captures real-time microphone stream and applies voice activity detection to isolate speech frames." },
+        { "title": "Whisper Speech-to-Text", "description": "Converts spoken audio to text with high transcription accuracy and noise cancellation." },
+        { "title": "ChromaDB Grounded RAG", "description": "Retrieves exact room pricing, availability, and resort policy documents via cosine similarity." },
+        { "title": "LangGraph Dialogue Synthesis", "description": "Orchestrates conversation state, generates natural language responses, and streams speech back to the user." }
+      ]
+    },
+    {
+      "id": "neodetect",
+      "title": "NeoDetect",
+      "subtitle": "Document & Image Fraud Detection System",
+      "description": "Engineered NeoDetect, a document and image fraud detection system using DenseNet121, Llama, and TensorFlow, achieving 30% improvement in fraud capture rates. Applied RAG pipelines for document comprehension tasks, increasing document classification precision. Built secure FastAPI RESTful APIs for model serving and optimized response time by 60% using batch inference and asynchronous I/O.",
+      "stack": ["DenseNet121", "Llama", "TensorFlow", "FastAPI", "Python", "RAG", "ChromaDB", "REST APIs"],
+      "role": "AI / ML Engineer",
+      "year": "2024",
+      "githubUrl": "https://github.com/adinarayana02",
+      "liveUrl": "https://adinarayanathota.vercel.app/",
+      "link": "https://adinarayanathota.vercel.app/",
+      "image": "/projects/neodetect.jpg",
+      "highlight": true,
+      "metrics": {
+        "latency": "120ms (Inference)",
+        "costReduction": "60% API Response Time Optimization",
+        "accuracy": "30% Fraud Capture Gain",
+        "throughput": "500 docs/min",
+        "guardrails": "Llama Guard & Fraud Policy Checks",
+        "tokensProcessed": "3.5M/mo"
+      },
+      "challenges": "Detecting counterfeit signatures, pixel manipulation, and fraudulent text anomalies simultaneously while maintaining sub-second inference speed for high-volume verification.",
+      "solutions": "Combined DenseNet121 convolutional networks for visual feature extraction with Llama LLMs and RAG pipelines for contextual understanding, and implemented batch inference with asynchronous I/O in FastAPI.",
+      "architectureSteps": [
+        { "title": "Document & Image Ingestion", "description": "Extracts raw pixel data and high-resolution document scans." },
+        { "title": "DenseNet121 CNN Feature Extraction", "description": "Analyzes tampering artifacts, compression traces, and image authenticity." },
+        { "title": "RAG Document Comprehension", "description": "Vectorizes document content into ChromaDB to verify structural legitimacy." },
+        { "title": "Llama Reasoning Layer", "description": "Cross-verifies textual metadata and checks against compliance policies." },
+        { "title": "FastAPI Async Serving", "description": "Serves predictions via RESTful API with batch inference and async I/O." }
+      ]
+    },
+    {
+      "id": "karam-ai",
+      "title": "KARAM AI",
+      "subtitle": "AI Automation Multi-Agent Platform",
+      "description": "Designed a Generative AI-powered multi-agent platform that automates workflows across finance, marketing, customer support, and research. Integrated AutoGPT-like intelligent agents capable of reasoning, context management, and task orchestration using LLMs + ChromaDB.",
+      "stack": ["Python", "FastAPI", "React.js", "ChromaDB", "AutoGPT", "LLMs", "n8n", "LangChain"],
+      "role": "Lead AI Engineer",
+      "year": "2025",
+      "githubUrl": "https://github.com/adinarayana02",
+      "liveUrl": "https://adinarayanathota.vercel.app/",
+      "link": "https://adinarayanathota.vercel.app/",
+      "image": "/projects/karam-ai.jpg",
+      "highlight": true,
+      "metrics": {
+        "latency": "180ms (Agent Step)",
+        "costReduction": "65% Manual Workload Reduction",
+        "accuracy": "95.8% Task Success",
+        "throughput": "150 workflows/min",
+        "guardrails": "Agent Reflection & Multi-Step Verification",
+        "tokensProcessed": "8.2M/mo"
+      },
+      "challenges": "Preventing hallucination and context drift during multi-step reasoning across diverse enterprise business processes.",
+      "solutions": "Implemented AutoGPT-style task planner loops with LangChain state machines, ChromaDB semantic memory storage, and n8n webhooks for enterprise tool orchestration.",
+      "architectureSteps": [
+        { "title": "Goal Formulation", "description": "Deconstructs high-level business goals into sequential sub-tasks." },
+        { "title": "Multi-Agent Orchestration", "description": "Routes sub-tasks to specialized agents (Finance, Marketing, Research)." },
+        { "title": "ChromaDB Memory", "description": "Maintains persistent short-term and long-term agent context." },
+        { "title": "n8n Automation Dispatch", "description": "Executes external actions and platform integrations via webhooks." },
+        { "title": "Output Consolidation", "description": "Synthesizes verified deliverables with reflection and validation." }
+      ]
+    },
+    {
+      "id": "ai-chatbot-platform",
+      "title": "Multi-Functional AI Chatbot Platform",
+      "subtitle": "Modular Q&A, PDF Search, Excel Analytics & Notebook Querying",
+      "description": "Built a modular chatbot system with support for General Q&A, PDF search, Excel data analysis, and notebook queries. Leveraged FastAPI and real-time NLP techniques to enhance query understanding, resulting in a 40% improvement in user support efficiency.",
+      "stack": ["React.js", "FastAPI", "Python", "RAG", "JavaScript", "REST APIs", "OpenAI", "ChromaDB", "Pandas"],
+      "role": "Full Stack AI Developer",
+      "year": "2025",
+      "githubUrl": "https://github.com/adinarayana02",
+      "liveUrl": "https://adinarayanathota.vercel.app/",
+      "link": "https://adinarayanathota.vercel.app/",
+      "image": "/projects/ai-chatbot-platform.jpg",
+      "highlight": true,
+      "metrics": {
+        "latency": "95ms (Query RT)",
+        "costReduction": "40% Support Efficiency Gain",
+        "accuracy": "96.4% Query Understanding",
+        "throughput": "800 queries/min",
+        "guardrails": "NLP Intent Validation & Data Sanitization",
+        "tokensProcessed": "5.1M/mo"
+      },
+      "challenges": "Handling disparate data formats (unstructured PDFs, structured Excel tables, code notebooks) in a single responsive chat interface.",
+      "solutions": "Built unified ingestion pipelines combining Pandas execution engines for Excel, chunked RAG vector indexing for PDFs, and FastAPI NLP intent routing for conversational Q&A.",
+      "architectureSteps": [
+        { "title": "Multi-Modal Document Ingestion", "description": "Parses PDFs, Excel sheets, and Jupyter notebooks." },
+        { "title": "Intent Classification", "description": "Routes user queries to tabular analysis or semantic retrieval." },
+        { "title": "RAG & Tabular Engine", "description": "Performs ChromaDB vector search for docs and dynamic Pandas execution for data." },
+        { "title": "OpenAI LLM Synthesis", "description": "Generates structured, cited, and human-like answers." },
+        { "title": "Streaming React UI", "description": "Renders real-time markdown, data tables, and interactive visualizations." }
+      ]
+    },
+    {
+      "id": "virtual-tryon",
+      "title": "AI-Powered Virtual Try-On System",
+      "subtitle": "Deep Learning Virtual Fitting with Webcam & Image Upload (Hackathon Winner)",
+      "description": "Award-winning Hackathon project enabling users to virtually try on clothing using live webcam stream or uploaded photos. Features deep learning computer vision pipelines, human pose estimation, and realistic garment texture warping.",
+      "stack": ["Python", "TensorFlow", "React.js", "FastAPI", "Computer Vision", "Deep Learning", "OpenCV"],
+      "role": "Lead Developer & ML Engineer",
+      "year": "2024",
+      "githubUrl": "https://github.com/adinarayana02",
+      "liveUrl": "https://adinarayanathota.vercel.app/",
+      "link": "https://adinarayanathota.vercel.app/",
+      "image": "/projects/virtual-tryon.jpg",
+      "highlight": true,
+      "metrics": {
+        "latency": "150ms (Frame RT)",
+        "costReduction": "Instant Fitting Preview",
+        "accuracy": "94% Pose Alignment",
+        "throughput": "60 FPS Stream",
+        "guardrails": "Pose Boundary & Safety Check",
+        "tokensProcessed": "N/A"
+      },
+      "challenges": "Accurate cloth warping and alignment across diverse human body poses and variable lighting in real-time.",
+      "solutions": "Integrated pose estimation landmark tracking with garment deformation networks and FastAPI streaming pipelines for instant visual feedback.",
+      "architectureSteps": [
+        { "title": "Webcam / Image Capture", "description": "Captures user photo or real-time camera video stream." },
+        { "title": "Pose Estimation Keypoints", "description": "Extracts body landmarks and posture contours." },
+        { "title": "Garment Warping Network", "description": "Transforms 2D apparel textures to match 3D body geometry." },
+        { "title": "Blending & Rendering", "description": "Composites garment onto user feed with realistic shading and folds." }
+      ]
+    },
+    {
+      "id": "b2b-ai-automation-platform",
+      "title": "B2B AI Business Automation Platform",
+      "subtitle": "Voice Calling Agent, Social Media & SEO Automation, and Lead Management",
+      "description": "Enterprise AI-powered business automation platform built during internship at TELIC INFO SERVICES PRIVATE LIMITED. Features multiple specialized AI workflows including an autonomous Voice Calling Agent for customer call interactions and summarization, a Social Media Automation Agent for localized content and video generation, Lead Management pipelines for prospect scoring, and SEO automation for business websites. Engineered using Python, FastAPI, LLM APIs, RAG, ChromaDB, and MLflow for experiment tracking and inference optimization.",
+      "stack": ["Python", "FastAPI", "LLM APIs", "RAG", "ChromaDB", "Prompt Orchestration", "MLflow", "Voice AI", "SEO Automation"],
+      "role": "AI / ML Developer",
+      "year": "2024",
+      "githubUrl": "https://github.com/adinarayana02",
+      "liveUrl": "https://adinarayanathota.vercel.app/",
+      "link": "https://adinarayanathota.vercel.app/",
+      "image": "/projects/b2b-ai-automation-platform.jpg",
+      "highlight": false,
+      "metrics": {
+        "latency": "95ms (Inference)",
+        "costReduction": "50% Operational Cost Reduction",
+        "accuracy": "94% Intent & Summary Accuracy",
+        "throughput": "500 calls & leads/hr",
+        "guardrails": "Prompt Orchestration & Validation",
+        "tokensProcessed": "4M/mo"
+      },
+      "challenges": "Orchestrating disparate AI workflows (voice calling, social media generation, lead scoring, and SEO) within a unified low-latency architecture while maintaining prompt reliability.",
+      "solutions": "Architected modular FastAPI microservices with prompt orchestration, RAG with ChromaDB vector search, voice audio pipelines, and tracked pipeline performance and experiments via MLflow.",
+      "architectureSteps": [
+        { "title": "Multi-Channel Ingestion", "description": "Captures inbound voice calls, social media engagement, and website analytics." },
+        { "title": "Voice & Language Orchestration", "description": "Voice agent handles real-time dialogue, extracts requirements, and generates sales summaries." },
+        { "title": "Content & SEO Generation", "description": "Generates localized social media posts, short-form video scripts, and SEO content." },
+        { "title": "Lead Management & MLflow Tracking", "description": "Qualifies sales leads via vector search and monitors AI experiments with MLflow." }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Andhra University",
+      "degree": "M.Tech in Information Technology",
+      "location": "Visakhapatnam, Andhra Pradesh, India",
+      "period": "2024 - 2026",
+      "grade": "CGPA of 8.5/10",
+      "coursework": [
+        "SDLC",
+        "DBMS",
+        "Operating Systems",
+        "ETL",
+        "OOPS",
+        "Design Patterns",
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    },
+    {
+      "institution": "Vasireddy Venkatadri Institute of Technology",
+      "degree": "B.Tech in Information Technology",
+      "location": "Guntur, Andhra Pradesh, India",
+      "period": "2020 - 2024",
+      "grade": "CGPA of 7.91/10",
+      "coursework": [
+        "Data Structures & Algorithms",
+        "Database Management Systems",
+        "Object-Oriented Programming",
+        "Operating Systems",
+        "Computer Networks"
+      ]
+    }
+  ],
+  "testimonials": [],
+  "blogs": [
+    {
+      "title": "AI Benchmarks: Why a Higher Score Doesn’t Always Mean a Better AI Model",
+      "slug": "ai-benchmarks-why-a-higher-score",
+      "description": "Every time a new AI model is released, a new leaderboard appears. But a benchmark score is not the same thing as real-world capability. Exploring benchmark contamination, saturation, Goodhart's law, dynamic evaluations, and building workload-specific metrics.",
+      "url": "https://thotaadinarayana.substack.com/p/ai-benchmarks-why-a-higher-score",
+      "publishedAt": "2026-09-25",
+      "tags": ["AI Benchmarks", "LLM Evaluation", "MMLU", "SWE-bench"]
+    },
+    {
+      "title": "Fine-Tuning an AI Voice Agent: From Audio Dataset to Production",
+      "slug": "fine-tuning-an-ai-voice-agent-from",
+      "description": "Production-grade AI voice agents require speech understanding, conversational reasoning, real-time tool calling, and expressive synthesis. A complete guide from dataset curation and audio validation to STT, LLM, and TTS fine-tuning.",
+      "url": "https://thotaadinarayana.substack.com/p/fine-tuning-an-ai-voice-agent-from",
+      "publishedAt": "2026-09-09",
+      "tags": ["Voice AI", "Fine-Tuning", "STT", "TTS", "Whisper"]
+    },
+    {
+      "title": "Hermes Agent: From AI Chatbot to a Customizable AI Agent",
+      "slug": "hermes-agent-from-ai-chatbot-to-a",
+      "description": "Explore how autonomous AI agents transcend traditional chat interfaces using persistent memory (MEMORY.md), dynamic tool execution, reusable skills, MCP server connectivity, and cron automations.",
+      "url": "https://thotaadinarayana.substack.com/p/hermes-agent-from-ai-chatbot-to-a",
+      "publishedAt": "2026-09-02",
+      "tags": ["AI Agents", "MCP", "Autonomous Workflows", "Nous Research"]
+    },
+    {
+      "title": "Advanced RAG: How to Build Better Retrieval Pipelines",
+      "slug": "advanced-rag-how-to-build-better",
+      "description": "Move beyond basic naive vector search. A comprehensive exploration of Query Transformation, Multi-Query expansion, Hybrid Search (BM25 + Dense Vectors), Cross-Encoder Reranking, and Context Compression.",
+      "url": "https://thotaadinarayana.substack.com/p/advanced-rag-how-to-build-better",
+      "publishedAt": "2026-08-29",
+      "tags": ["Advanced RAG", "Vector DBs", "Hybrid Search", "Reranking"]
+    },
+    {
+      "title": "Agentic RAG Explained: Architecture, Workflow, and Real-World Implementation",
+      "slug": "agentic-rag-explained-architecture",
+      "description": "An in-depth breakdown comparing traditional RAG, advanced RAG, and agentic RAG. Learn how autonomous agents dynamically plan queries, route across vector and SQL sources, verify facts, and self-correct.",
+      "url": "https://thotaadinarayana.substack.com/p/agentic-rag-explained-architecture",
+      "publishedAt": "2026-08-25",
+      "tags": ["Agentic RAG", "Multi-Agent Systems", "FastAPI", "ChromaDB"]
+    },
+    {
+      "title": "Personal AI Assistant Built with n8n & Telegram",
+      "slug": "personal-ai-assistant-n8n-telegram",
+      "description": "Build an autonomous personal AI assistant on Telegram using n8n workflows, OpenAI Whisper for voice notes, Pinecone vector search for semantic recall, and ElevenLabs realistic voice generation.",
+      "url": "https://lnkd.in/p/dDZugJWA",
+      "publishedAt": "2026-05-10",
+      "tags": ["AIAgent", "n8n", "VoiceAI", "TelegramBot", "OpenAI", "Pinecone"]
+    },
+    {
+      "title": "Build Your Own AI Marketing Asset Generator with n8n & GPT-4",
+      "slug": "ai-marketing-asset-generator-n8n-gpt4",
+      "description": "Create an automated marketing visual and copywriting generator using n8n, OpenAI GPT-4, and image generation APIs to produce branded banners, ad copies, and campaign assets on autopilot.",
+      "url": "https://lnkd.in/p/dFnpHqFp",
+      "publishedAt": "2026-05-20",
+      "tags": ["AIAgent", "n8n", "ImageAI", "MarketingAutomation", "OpenAI", "GPT4"]
+    },
+    {
+      "title": "System Design Series: Understanding Low Level Design (LLD)",
+      "slug": "system-design-understanding-low-level-design-lld",
+      "description": "Comprehensive handnotes on Low-Level Design (LLD): mastering Object-Oriented Programming (OOP), SOLID principles, Design Patterns (Factory, Strategy, Observer, Decorator), and class diagrams for scalable software.",
+      "url": "https://lnkd.in/p/dVgPau2S",
+      "publishedAt": "2026-06-15",
+      "tags": ["SystemDesign", "LowLevelDesign", "OOP", "SOLIDPrinciples", "DesignPatterns"]
+    },
+    {
+      "title": "Mastering System Design: From HLD to LLD for Backend Engineers",
+      "slug": "mastering-system-design-hld-to-lld",
+      "description": "Bridging High-Level Architecture (HLD) with Low-Level Design (LLD). Deep dive into load balancers, caching strategies (Redis), database sharding, CAP theorem, message queues (Kafka), and microservices patterns.",
+      "url": "https://lnkd.in/p/dTJygtkC",
+      "publishedAt": "2026-07-02",
+      "tags": ["SystemDesign", "BackendDevelopment", "HLD", "LLD", "Microservices", "Scalability"]
+    }
+  ]
+}
+
