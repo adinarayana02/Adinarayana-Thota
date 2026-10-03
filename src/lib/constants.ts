@@ -20,6 +20,7 @@ export const siteConfig = {
     substackProfile: "https://substack.com/@techtalks02",
     leetcode: "https://leetcode.com",
     resume: "https://drive.google.com/file/d/1FTtZLLZYsGK8boAFuCLHdMmciIIOjFLz/view?usp=sharing",
+    introVideo: "https://drive.google.com/file/d/1Lirn5Ft7bji27Nd3K3W8tWzUQztmHr4g/view?usp=sharing",
   },
   githubUsername: "adinarayana02",
   leetcodeUsername: "adinarayana02",
