@@ -64,8 +64,8 @@ async function seed() {
     const newUrl = "https://adinarayanathota.vercel.app/";
     await Profile.create({
       name: "Adinarayana Thota",
-      title: "Developer (AI / ML, Data Engineering)",
-      bio: "AI/ML and Data Engineering Developer specializing in Generative AI, Multi-Agent Systems, RAG pipelines, and scalable APIs. Pursuing M.Tech in Information Technology at Andhra University with a proven track record in end-to-end AI recruitment tools, fraud detection, and multi-agent platforms.",
+      title: "Developer (AI / ML)",
+      bio: "AI/ML  specializing in Generative AI, Multi-Agent Systems, RAG pipelines, and scalable APIs. Pursuing M.Tech in Information Technology at Andhra University with a proven track record in end-to-end AI recruitment tools, fraud detection, and multi-agent platforms.",
       email: "thotaadinarayana02@gmail.com",
       phone: "+91 8309871401",
       location: "Andhra Pradesh, India",
@@ -76,7 +76,7 @@ async function seed() {
       githubUsername: "adinarayana02",
       leetcodeUrl: "https://leetcode.com",
       leetcodeUsername: "adinarayana02",
-      resumeUrl: "https://drive.google.com/file/d/1FTtZLLZYsGK8boAFuCLHdMmciIIOjFLz/view?usp=sharing",
+      resumeUrl: "https://drive.google.com/file/d/1ZPg_7QHjISbWwP6MNdcUSzRstjK2yJug/view?usp=sharing",
     });
     console.log("✅ Profile seeded");
 
